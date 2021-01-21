@@ -70,7 +70,6 @@ main .box {
 }
 .box .column {
   float: left;
-  height: 56vh;
   width: 20%;
 }
 .column img {
@@ -79,7 +78,6 @@ main .box {
 }
 .box .main_column {
   float: left;
-  height: 56vh;
   width: 56%;
   margin: 0 2%;
 }
